@@ -1,0 +1,121 @@
+{
+  "hotCityList": [
+    {
+      "code": 100010000,
+      "name": "北京"
+    },
+    {
+      "code": 101010100,
+      "name": "??"
+    },
+    {
+      "code": 101020100,
+      "name": "??"
+    },
+    {
+      "code": 101280100,
+      "name": "??"
+    },
+    {
+      "code": 101280600,
+      "name": "??"
+    },
+    {
+      "code": 101210100,
+      "name": "??"
+    },
+    {
+      "code": 101030100,
+      "name": "??"
+    },
+    {
+      "code": 101110100,
+      "name": "??"
+    },
+    {
+      "code": 101190400,
+      "name": "??"
+    },
+    {
+      "code": 101200100,
+      "name": "??"
+    },
+    {
+      "code": 101230200,
+      "name": "??"
+    },
+    {
+      "code": 101250100,
+      "name": "??"
+    },
+    {
+      "code": 101270100,
+      "name": "??"
+    },
+    {
+      "code": 101180100,
+      "name": "??"
+    },
+    {
+      "code": 101040100,
+      "name": "??"
+    }
+  ],
+  "work": [
+    {
+      "name": "java"
+    },
+    {
+      "name": "??react"
+    },
+    {
+      "name": "app??"
+    },
+    {
+      "name": "????"
+    }
+  ],
+  "experience": [
+    {
+      "name": "??",
+      "code": 1,
+      "experience": "3,5",
+      "salary": "14,18"
+    },
+    {
+      "name": "??",
+      "code": 2,
+      "experience": "4,6",
+      "salary": "18,23"
+    },
+    {
+      "name": "??????",
+      "code": 3,
+      "experience": "",
+      "salary": "11,14"
+    },
+    {
+      "name": "??????",
+      "code": 4,
+      "experience": "",
+      "salary": "14,17"
+    },
+    {
+      "name": "app????",
+      "code": 5,
+      "experience": "",
+      "salary": "10,13"
+    },
+    {
+      "name": "app????",
+      "code": 6,
+      "experience": "",
+      "salary": "13,16"
+    }
+  ],
+  "base": {
+    "cookie": "sdf",
+    "degree": "202,205"
+  }
+}
+
